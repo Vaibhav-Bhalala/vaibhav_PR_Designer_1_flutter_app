@@ -1,16 +1,2 @@
-# pr_designer_1
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230517_155433](https://github.com/Vaibhav-Bhalala/vaibhav_PR_Designer_1_flutter_app/assets/122871366/d5321a14-a386-444d-a83d-f8481853a468)
